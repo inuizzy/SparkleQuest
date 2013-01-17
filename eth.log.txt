@@ -1,0 +1,7 @@
+[C:\Users\Falcon\Documents\Ethanon\SparkleQuest\eth.log.txt]
+Backbuffer created as 854, 480
+Loading game script from source-code: main.angelscript
+Compile time: 0 milliseconds
+(Loaded) backgroundcolor.png
+(Loaded) ground_dirt.png
+(Loaded) front.png

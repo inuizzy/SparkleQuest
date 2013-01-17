@@ -1,0 +1,6 @@
+[C:\Users\Falcon\Documents\Ethanon\SparkleQuest\_error.log.txt]
+
+AngelScript ERROR (line 28): 
+No matching signatures to 'ETHEntity::AddToPositionXY(getKeyboardDirections)'
+ERROR - Failed while building module.
+ERROR - ETHEngine::StartEngine: the script has set no scene to load.
