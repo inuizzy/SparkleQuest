@@ -7,7 +7,7 @@
 
 void main()
 {
-	LoadScene("scenes/Level1.esc", "onSceneCreated", "onSceneUpdate");
+	LoadScene("scenes/wtf.esc", "onSceneCreated", "onSceneUpdate");
 
 	// Prefer setting window properties in the app.enml file
 	// SetWindowProperties("Ethanon Engine", 1024, 768, true, true, PF32BIT);
